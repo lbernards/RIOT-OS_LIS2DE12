@@ -2,7 +2,7 @@
 
 ## Overview
 
-Brief description of your project.
+LIS2DE12 driver implemantation in RIOT-OS.
 
 ## Getting Started
 
@@ -10,7 +10,8 @@ Follow these steps to test the code in the RIOT project:
 
 ### Prerequisites
 
-- List any prerequisites or dependencies required to run the code.
+export BOARD=wyres-base
+export EXTERNAL_BOARD_DIRS=~/github/campusiot/RIOT-wyres/boards
 
 ### Installation
 
@@ -22,10 +23,6 @@ Follow these steps to test the code in the RIOT project:
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd your-repository
-    ```
-
 ### Testing
 
 To test the code, replace the files in their respective folders within the RIOT project:
@@ -33,18 +30,9 @@ To test the code, replace the files in their respective folders within the RIOT 
 1. Identify the files to be replaced.
 2. Replace the corresponding files in the RIOT project's folders.
 
-### Usage
 
-Provide any additional information or instructions on how to use the code.
 
-## Contributing
+## Contributors
 
-Explain how others can contribute to your project.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-Mention or thank individuals or projects that have contributed to your project.
+REGIANI FREITAS Dante
+ORLANDO BERNARDES Lucas
