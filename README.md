@@ -1,4 +1,4 @@
-# LIS2DE12 firmware test in RIOT-OS based WYRES board
+# LIS2DE12 firmware 
 
 ## Overview
 
