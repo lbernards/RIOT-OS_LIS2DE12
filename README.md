@@ -34,5 +34,5 @@ To test the code, replace the files in their respective folders within the RIOT 
 
 ## Contributors
 
-REGIANI FREITAS Dante
+REGIANI FREITAS Dante <br>
 ORLANDO BERNARDES Lucas
