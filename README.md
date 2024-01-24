@@ -1,4 +1,4 @@
-# Project Name
+# LIS2DE12 firmware test in RIOT-OS based WYRES board
 
 ## Overview
 
