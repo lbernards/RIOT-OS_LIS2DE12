@@ -8,11 +8,6 @@ LIS2DE12 driver implemantation in RIOT-OS.
 
 Follow these steps to test the code in the RIOT project:
 
-### Prerequisites
-
-export BOARD=wyres-base
-export EXTERNAL_BOARD_DIRS=~/github/campusiot/RIOT-wyres/boards
-
 ### Installation
 
 1. Clone the repository:
@@ -22,6 +17,11 @@ export EXTERNAL_BOARD_DIRS=~/github/campusiot/RIOT-wyres/boards
     ```
 
 2. Navigate to the project directory:
+   
+   ```bash
+    cd repo_name
+    cp RIOT/file /respective/folder/in/RIOT/project 
+    ```
 
 ### Testing
 
